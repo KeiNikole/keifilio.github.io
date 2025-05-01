@@ -2,7 +2,7 @@
 
 Serenity is a modern, fully responsive website designed for a beauty salon and spa. This site is crafted to provide visitors with a seamless and relaxing online experience, reflecting the tranquil atmosphere of the salon itself. Serenity aims to showcase the salon’s unique philosophy, highlight its premium services, and make booking appointments effortless for clients.
 
-#Features
+Features
 
 Navigation Bar
 Dropdown Menu: Effortlessly access all key sections of the site with an intuitive dropdown menu.
